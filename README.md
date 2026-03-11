@@ -17,9 +17,7 @@ In this assessment, the task was to develop multiple CNN and Deep Learning netwo
 
 **Images**
 
-![K-Longo](https://i.imgur.com/pA0MkXC.png)
-
-![K-Longo](https://i.imgur.com/geT7n85.png)
+COMING SOON
 
 **Dataset/Preparation**
 
